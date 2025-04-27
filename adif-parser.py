@@ -1,1 +1,1 @@
-src/py/adif-parser.py
+./src/py/adif-parser.py
